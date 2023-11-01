@@ -1,2 +1,2 @@
 # python-project
-basic python project 
+Python 
